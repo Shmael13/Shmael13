@@ -10,21 +10,18 @@
 ---
 
 ### Projects
-- **Multi-Agent Market Simulation** - high-frequency trading env with autonomous agents and real-time order matching.  
+### Projects
+- [**Multi-Agent Market Simulation**](https://github.com/Shmael13/MyProjects/tree/main/Economic_Models/Multi_Agent_Market_Simulation) — high-frequency trading env with autonomous agents and real-time order matching.  
   _C++ + Python · portfolio tracking_
-  [Repo]([https://github.com/Shmael13/MyProjects/tree/main/Economic_Models/Multi](https://github.com/Shmael13/MyProjects/tree/main/Economic_Models/Multi_Agent_Market_Simulation))
 
-- **Particle Simulator (Clusters)** - 2D emergent “artificial life” with thousands of particles, spatial grids, and OpenMP.  
+- [**Particle Simulator (Clusters)**](https://github.com/Shmael13/MyProjects/tree/main/Particle_Simulator/Clusters) — 2D emergent “artificial life” with thousands of particles, spatial grids, and OpenMP.  
   _C · Allegro5 · real-time rendering_
-  [Repo]([https://github.com/Shmael13/MyProjects/tree/main/Particle_Simulator](https://github.com/Shmael13/MyProjects/tree/main/Particle_Simulator/Clusters))
 
-- **Aim Trainer** - arcade-style reactions game with specials, spawns, and difficulty scaling.  
+- [**Aim Trainer**](https://github.com/Shmael13/AimTrainer) — arcade-style reactions game with specials, spawns, and difficulty scaling.  
   _Python_
-  [Repo]([https://github.com/Shmael13/AimTrainer](https://github.com/Shmael13/AimTrainer))
 
-- **ML_Projects** -  suite of ML implementations.
-  _Python, Scipy, Numpy, Pandas_
-  [Repo]([https://github.com/Shmael13/ML_Projects]https://github.com/Shmael13/ML_Projects)
+- [**ML_Projects**](https://github.com/Shmael13/ML_Projects) — suite of ML implementations.  
+  _Python, SciPy, NumPy, Pandas_
 
 ---
 
