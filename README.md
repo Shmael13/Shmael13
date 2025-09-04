@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Ismail
-**I like building fast statical simulations, and ML projects.**  
+**I like building fast statistical simulations, and ML projects.**  
 
 [LinkedIn](https://www.linkedin.com/in/ismail-syed-awesome) • [Email](mailto:ismailsyed2005@gmail.com)
 
